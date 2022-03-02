@@ -9,7 +9,7 @@ You should have basic understanding of ES6, MongoDB(Which is document based NoSQ
 functional based component and Class based component).
 All the CSS are imported from Bootstrap.
 # For security reasons the MongoDB database username and password has not been set to .env. Create your own mongodb database in mongodb atlas(Cloud), 
-# reset your own username ,password and databse name in .env file.
+# reset your own username, password and databse name in .env file.
 
 
 # The following command has been used to import NPM moudles on Server(backend)  and client(frontend):
