@@ -16,16 +16,17 @@ All the CSS are imported from Bootstrap.
 
 # Server side(backend) :
 
-npm init -y
-npm install express cors mongoose dotenv
-npm install -g nodemon
-nodemon server               (run server.s) if any issue then run powershell as an administrator and use commands: (Get-ExecutionPolicy,  Set-ExecutionPolicy Unrestricted) 
+# npm init -y
+# npm install express cors mongoose dotenv
+# npm install -g nodemon
+# nodemon server               (run server.s) if any issue then run powershell as an administrator and use commands: (Get-ExecutionPolicy,  Set-ExecutionPolicy Unrestricted) 
 
 # Client side(frontend) :
-npx create-react-app frontend
-npm install bootstrap
-npm install react-router-dom
-npm install react-datepicker
-npm install axios
+
+# npx create-react-app frontend
+# npm install bootstrap
+# npm install react-router-dom
+# npm install react-datepicker
+# npm install axios
 
 
