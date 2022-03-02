@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create fullstack App using React, NodeJs,Mongodb and express
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +68,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+For backend:
+npm init -y
+npm install express cors mongoose dotenv
+npm install -g nodemon
+nodemon server               (run server.s) if anyissue then run powershell as administrator and set comman(Get-ExecutionPolicy,  Set-ExecutionPolicy Unrestricted) 
+div div123
+
+
+
+
+
+For frontend:
+npx create-react-app frontend
+npm install bootstrap
+npm install react-router-dom
+npm install react-datepicker
+npm install axios
+
