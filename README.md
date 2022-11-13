@@ -1,6 +1,6 @@
 # react-mongodb-nodejs-express-fullstack-rest-app
 
-# This app is useful for those who are curious to develop full stack app using modern NodeJs, React , Express and MongoDB database(NosQL).
+- This app is useful for those who are curious to develop full stack app using modern NodeJs, React , Express and MongoDB database(NosQL).
 # what you will learn here is:
 
 -Develping Restful API using different HTTP endpoint using NodeJs , Mongoose, Express and Mongodb(NoSQL) cloud database as backend.
